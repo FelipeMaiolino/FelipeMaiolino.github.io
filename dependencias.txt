@@ -1,0 +1,9 @@
+Abrir o bash na pasta do projeto e entrar os comandos:
+
+- yarn
+- npm install react-router-dom -save
+- npm install react-player --save
+- npm install file-loader --save-dev
+
+
+Grupo 11
