@@ -16,7 +16,7 @@ function Dicas() {
           </nav>
         </header>
         <main>
-         <h2 className='tituloProjeto'>Projeto Extencionista da Discilina de Linguagem de Programação II</h2>
+         <h2 className='tituloProjeto'>Dicas</h2>
         </main>
       <footer>
         <Rodape/>
