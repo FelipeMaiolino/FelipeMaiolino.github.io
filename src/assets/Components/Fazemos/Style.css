@@ -1,0 +1,35 @@
+#oQuefazemos {
+  background-color: #f7f7f7;
+  display: grid;
+  justify-items: center;
+}
+
+.OqfBody {
+  max-width: 64rem;
+  padding: 0rem 6rem;
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  align-items: center;
+  gap: 4rem;
+  color: #363610;
+  font-family: "Roboto", sans-serif;
+  font-weight: 300;
+}
+
+.listaOqF {
+  line-height: 2rem;
+  text-align: justify;
+}
+
+.listaOqF ul {
+  margin-left: 4rem;
+  line-height: 3rem;
+}
+
+.listaOqF li {
+  list-style-image: url(./icons8-done.svg);
+}
+
+.listaOqF h2 {
+  margin-bottom: 1rem;
+}

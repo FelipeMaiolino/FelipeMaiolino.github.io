@@ -1,0 +1,43 @@
+#ondeEstamos {
+  display: grid;
+  justify-items: center;
+  background-color: #2d4d30;
+  color: #ffffff;
+  font-family: "Roboto", s ans-serif;
+  font-weight: 300;
+}
+
+.oE_Body {
+  max-width: 64rem;
+  padding: 5rem 6rem;
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 10rem;
+  justify-items: center;
+  align-items: center;
+}
+
+.oE_texto {
+  line-height: 1.5rem;
+  text-align: justify;
+}
+
+.oE_texto h2 {
+  margin-bottom: 1rem;
+}
+
+.oE_dataBox {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 6rem 4rem;
+}
+
+.oE_data {
+  text-align: center;
+}
+
+.data_number {
+  font-size: 3.5rem;
+  font-weight: 700;
+  color: #cae4c5;
+}

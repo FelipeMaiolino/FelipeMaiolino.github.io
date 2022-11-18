@@ -1,0 +1,25 @@
+#comoFazemos {
+  display: grid;
+  justify-items: center;
+  color: #363610;
+  font-family: "Roboto", sans-serif;
+  font-weight: 300;
+}
+
+.comoFazemosBody {
+  max-width: 64rem;
+  padding: 10rem 6rem;
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 4rem;
+  justify-items: center;
+}
+
+.comoFazemosBody h2 {
+  margin-bottom: 1rem;
+}
+
+.comoFazemosBody p {
+  line-height: 1.5rem;
+  text-align: justify;
+}

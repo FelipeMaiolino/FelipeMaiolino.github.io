@@ -1,11 +1,15 @@
 .rodape {
+  position: relative;
   font-family: "Roboto", sans-serif;
-  background-color: #1b2e1d;
-  height: 300px;
+  font-size: 0.9rem;
+  background-color: #2d4d30;
+  height: 270px;
   width: 100%;
   display: grid;
   grid-template-columns: 2fr 1fr 1fr;
   color: #c0bcbc;
+  background-image: url(./leavesfooter.png);
+  background-repeat: no-repeat;
 }
 
 .rodape ul {
@@ -20,15 +24,30 @@
   color: #c0bcbc;
 }
 
-.logoUNISAGRADO {
-  width: 40%;
-  height: 100%;
+.logoUNISAGRADO img {
+  margin: 25px 0px;
+  margin-left: 150px;
 }
 
 .social {
-  margin-top: 50px;
+  margin-top: 30px;
 }
 
 .footerMenu {
-  margin-top: 50px;
+  margin-top: 30px;
+  line-height: 1.3rem;
+}
+
+.footerMenu ul li a:hover {
+  color: #000000;
+}
+
+.socialIcon {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+}
+
+.socialIcon a:hover {
+  color: #000000;
 }

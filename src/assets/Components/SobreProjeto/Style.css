@@ -1,0 +1,57 @@
+#oProjeto {
+  width: 100%;
+  display: grid;
+  justify-items: center;
+}
+
+.projetoBody {
+  max-width: 64rem;
+  padding: 6rem;
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  justify-items: center;
+  gap: 4rem;
+  color: #494815;
+  font-family: "Roboto", sans-serif;
+  font-weight: 300;
+}
+
+.projetoBody h2 {
+  font-weight: 300;
+  font-size: 2.5rem;
+  justify-self: left;
+}
+
+.projetoBody_t1 {
+  line-height: 1.5rem;
+  text-align: justify;
+  grid-column: 1/2;
+}
+
+.projetoBody_t2 {
+  line-height: 1.5rem;
+  text-align: justify;
+}
+
+.msgAutoras {
+  margin-top: 4rem;
+  font-weight: 300;
+  font-size: 1.5rem;
+  grid-column: 1/3;
+  text-align: center;
+}
+
+.autoras {
+  max-width: 20rem;
+  display: grid;
+  justify-items: center;
+  text-align: justify;
+  gap: 2rem;
+  line-height: 1.5rem;
+  font-family: "Roboto Slab", serif;
+  font-weight: 400;
+}
+
+.autoras img {
+  width: 12.5rem;
+}

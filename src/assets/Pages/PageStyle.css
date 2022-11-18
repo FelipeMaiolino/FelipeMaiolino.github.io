@@ -6,10 +6,7 @@ body {
   height: 100vh;
 }
 
-img {
-  max-width: 100%;
-  display: block;
-}
+
 
 a {
   text-decoration: none;
@@ -53,12 +50,6 @@ header:hover {
   font-size: xx-large;
 }
 
-main{
+main {
   display: grid;
-  justify-items: center;
-}
-
-.paragrafo{
-  padding: 30px 200px 50px 200px;
-  font-size: x-large;
 }

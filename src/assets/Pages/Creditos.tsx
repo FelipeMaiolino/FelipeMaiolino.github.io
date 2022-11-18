@@ -18,7 +18,6 @@ function Creditos() {
           </nav>
         </header>
         <main>
-          <h2 className='tituloProjeto'>Projeto Extencionista da Discilina de Linguagem de Programação II</h2>
           <Nomes/>
         </main>
         <footer>

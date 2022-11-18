@@ -1,0 +1,35 @@
+#crescemos {
+  width: 100%;
+  display: grid;
+  justify-items: center;
+  height: 30rem;
+  background-image: url(./continuous-one-line-drawing-plant-growth-process-vector.png);
+  background-repeat: no-repeat;
+  background-size: contain;
+  background-position: bottom;
+  color: #494815;
+  font-family: "Roboto", sans-serif;
+  font-weight: 300;
+}
+
+.crescemosBody {
+  max-width: 64rem;
+  padding: 6rem;
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  justify-items: center;
+  gap: 4rem;
+}
+
+#crescemos h2 {
+  width: 100%;
+  font-weight: 300;
+  font-size: 2.5rem;
+  text-align: right;
+}
+
+.textoCrescemos {
+  width: 30rem;
+  text-align: justify;
+  line-height: 1.5rem;
+}

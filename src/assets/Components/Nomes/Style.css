@@ -1,3 +1,48 @@
-.part {
+#creditos {
+  font-size: 0.9em;
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  align-items: center;
   padding: 50px 200px 50px 200px;
+  line-height: 1.5rem;
+  background-color: #ecf8e24b;
+}
+
+.tituloProjeto {
+  grid-column: 1 / -1;
+  margin-bottom: 30px;
+  text-align: left;
+  font-family: "Montserrat", sans-serif;
+  color: #394032;
+  text-align: center;
+}
+
+.creditos li {
+  color: #6d6c6c;
+}
+
+.integrantesComp {
+  padding-top: 4px;
+  padding-right: 40px;
+  text-align: right;
+  line-height: 1.9rem;
+}
+
+.integrantesDesign {
+  padding-left: 40px;
+}
+
+.integrantesTitulo {
+  display: flex;
+  align-items: center;
+  color: #394032;
+}
+
+.integrantesTitulo.comp {
+  justify-content: end;
+  gap: 5px;
+}
+
+.integrantesTitulo.design {
+  gap: 5px;
 }

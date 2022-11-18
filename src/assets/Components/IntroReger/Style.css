@@ -1,0 +1,43 @@
+.introducao {
+  background-image: url(./mainimg.jpg);
+  height: 37.5rem;
+}
+
+.introReger {
+  width: 65rem;
+  height: 15rem;
+  margin: 200px 100px 0px 100px;
+  font-size: 4rem;
+  color: #fff;
+  font-family: "Open Sans", sans-serif;
+  font-weight: 700;
+  text-shadow: 0.5px 0.5px black;
+}
+
+#plusSymbol {
+  color: #d0ff50;
+}
+
+.divCartilha {
+  font-family: "Open Sans", sans-serif;
+  font-weight: 400;
+  color: #fff;
+  text-align: center;
+  margin-top: 40px;
+}
+
+.linkCartilha {
+  color: #fff;
+  display: inline-block;
+  margin-bottom: 10px;
+  padding: 0.7rem 3.8rem;
+  border: 2px solid white;
+  border-radius: 4px;
+  transition: 0.25s ease-out;
+}
+
+.linkCartilha:hover {
+  color: #394032;
+  background-color: #fff;
+  transition: 0.25s ease-out;
+}
