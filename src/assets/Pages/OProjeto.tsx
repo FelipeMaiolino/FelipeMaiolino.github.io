@@ -8,7 +8,7 @@ import './PageStyle.css'
 function OProjeto() {
 
   return (
-    <html>
+    <div>
       <body>
         <header>
           <Titulo />
@@ -35,7 +35,7 @@ function OProjeto() {
           <Direitos />
         </footer>
       </body>
-    </html>
+    </div>
   )
 }
 

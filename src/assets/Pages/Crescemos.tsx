@@ -8,7 +8,7 @@ import './PageStyle.css'
 function Crescemos() {
 
   return (
-    <html>
+    <div>
       <body>
         <header>
           <Titulo />
@@ -31,7 +31,7 @@ function Crescemos() {
           <Direitos />
         </footer>
       </body>
-    </html>
+    </div>
   )
 }
 

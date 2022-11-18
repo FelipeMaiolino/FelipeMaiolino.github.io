@@ -8,7 +8,7 @@ import './PageStyle.css'
 function OndeEstamos() {
 
   return (
-    <html>
+    <div>
       <body>
         <header>
           <Titulo />
@@ -37,7 +37,7 @@ function OndeEstamos() {
           <Direitos />
         </footer>
       </body>
-    </html>
+    </div>
   )
 }
 

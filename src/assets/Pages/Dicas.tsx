@@ -7,7 +7,7 @@ import './PageStyle.css'
 function Dicas() {
 
   return (
-    <html>
+    <div>
       <body>
         <header>
           <Titulo />
@@ -23,7 +23,7 @@ function Dicas() {
           <Direitos />
         </footer>
       </body>
-    </html>
+    </div>
   )
 }
 

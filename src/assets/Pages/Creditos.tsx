@@ -9,7 +9,7 @@ import './PageStyle.css'
 function Creditos() {
 
   return (
-    <html>
+    <div>
       <body>
         <header>
           <Titulo/>
@@ -27,7 +27,7 @@ function Creditos() {
       </footer>
       </body>
   
-    </html>
+    </div>
   )
 }
 

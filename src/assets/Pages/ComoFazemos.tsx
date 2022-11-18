@@ -9,7 +9,7 @@ import './PageStyle.css'
 function ComoFazemos() {
 
   return (
-    <html>
+    <div>
       <body>
         <header>
           <Titulo />
@@ -31,7 +31,7 @@ function ComoFazemos() {
           <Direitos />
         </footer>
       </body>
-    </html>
+    </div>
   )
 }
 
