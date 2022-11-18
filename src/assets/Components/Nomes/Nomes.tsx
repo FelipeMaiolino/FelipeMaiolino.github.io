@@ -17,7 +17,7 @@ function Nomes() {
             <li>Mateus Lopes Olivato</li>
             <li>Felipe Maiolino de Oliveira</li>
           </ul>
-          <h4>Professor Me. Vinicius</h4>
+          <h4>Professor Me. Vinicius Santos Andrade</h4>
         </div>
       </section>
       <section className ="part">
