@@ -30,7 +30,7 @@ function SobreProjeto() {
             em direção a um mundo sustentável.
             Dentre essas ações está a REDUÇÃO dos
             resíduos gerados".</p>
-          <p>Beatriz Antoniassi</p>
+          <p>Prof.ª Dra. Beatriz Antoniassi</p>
         </div>
         <div className="autoras">
           <img src={autora2} alt="" />
@@ -44,7 +44,7 @@ function SobreProjeto() {
             produzidos, mas também REDUZIR a produção
             dos mesmos na medida do possível,
             trabalhando hoje para garantir o amanhã"</p>
-          <p>Dulce H. J. Constantino</p>
+          <p>Prof.ª Dra. Dulce H. J. Constantino</p>
         </div>
       </div>
     </section>
