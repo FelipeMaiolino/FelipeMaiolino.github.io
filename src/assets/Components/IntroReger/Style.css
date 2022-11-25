@@ -1,6 +1,8 @@
 .introducao {
   background-image: url(./mainimg.jpg);
   height: 37.5rem;
+  max-width: 100%;
+  display: block;
 }
 
 .introReger {

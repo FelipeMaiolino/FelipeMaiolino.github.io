@@ -53,5 +53,6 @@
 }
 
 .autoras img {
-  width: 12.5rem;
+  max-width: 100%;
+  display: block;
 }

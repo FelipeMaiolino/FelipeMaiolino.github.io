@@ -44,7 +44,7 @@ function Rodape() {
             <li><a><Link to='/ComoFazemos'> Como Fazemos </Link></a></li>
             <li><a><Link to='/Crescemos'> Crescemos </Link></a></li>
             <li><a><Link to='/OndeEstamos'> OndeEstamos </Link></a></li>
-            <li><a><Link to='/Dicas'> Dicas </Link></a></li>
+
             <li><a><Link to='/Creditos'> Creditos </Link></a></li>
         </ul>
       </div>
